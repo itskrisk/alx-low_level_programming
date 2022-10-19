@@ -5,6 +5,8 @@
  * Return: Always 0 (SUCCESSKRIS)
  */
 
+int main(void)
+
 {
 	_putchar('_');
 	_putchar('p');
