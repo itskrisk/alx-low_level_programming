@@ -3,7 +3,7 @@
 /**
  *  _isupper - checks uppercase
  *  @c: parameter
- *  Return: 0 is success kris
+ *  Return: 0 is success
  */
 
 int _isupper(int c)
