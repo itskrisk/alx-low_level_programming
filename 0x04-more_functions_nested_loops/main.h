@@ -14,4 +14,4 @@ void print _square(int size);
 void print_triangle(int size);
 void print_number(int n);
 
-#end if /*MAIN_H */
+#endif /* MAIN_H */
